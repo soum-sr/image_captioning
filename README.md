@@ -1,2 +1,2 @@
 # image_captioning
-An image captioning model trained on flickr8k dataset
+An Image Captioning model trained on Flickr8k dataset.
